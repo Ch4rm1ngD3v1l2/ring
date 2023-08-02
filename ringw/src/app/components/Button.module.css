@@ -1,0 +1,29 @@
+.button {
+  background-color: #892cdc;
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  height: 50px;
+  width: 100%;
+  font-weight: 600;
+  border-radius: 8px;
+}
+
+.button:hover {
+  cursor: pointer;
+}
+
+@media (min-width: 576px) {
+}
+
+@media (min-width: 768px) {
+}
+
+@media (min-width: 992px) {
+}
+
+@media (min-width: 1200px) {
+}
+
+@media (min-width: 1400px) {
+}

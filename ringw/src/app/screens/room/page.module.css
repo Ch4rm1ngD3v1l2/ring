@@ -1,0 +1,47 @@
+.room {
+  height: 100vh;
+  position: relative;
+}
+
+.localVideo {
+  display: block;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  object-fit: cover;
+}
+
+.localVideo--connected {
+  margin: 30px 0 0 30px;
+  height: 150px;
+  width: auto;
+  border: 2px solid white;
+  border-radius: 8px;
+}
+
+.remoteVideo {
+  display: block;
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+@media (min-width: 576px) {
+}
+
+@media (min-width: 768px) {
+}
+
+@media (min-width: 992px) {
+}
+
+@media (min-width: 1200px) {
+}
+
+@media (min-width: 1400px) {
+}

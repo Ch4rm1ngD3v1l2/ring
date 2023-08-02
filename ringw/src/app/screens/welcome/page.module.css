@@ -1,0 +1,40 @@
+.container {
+  display: grid;
+  align-items: center;
+  justify-items: center;
+  height: 100vh;
+  text-align: center;
+}
+
+.container__wrapper {
+  display: grid;
+  justify-items: center;
+  row-gap: 56px;
+  width: 90%;
+  max-width: 400px;
+}
+
+.logo {
+  font-size: 32px;
+  font-weight: bold;
+  letter-spacing: 8px;
+}
+
+.description {
+  font-weight: 500;
+}
+
+@media (min-width: 576px) {
+}
+
+@media (min-width: 768px) {
+}
+
+@media (min-width: 992px) {
+}
+
+@media (min-width: 1200px) {
+}
+
+@media (min-width: 1400px) {
+}
